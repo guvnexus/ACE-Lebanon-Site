@@ -1,0 +1,3 @@
+# Review build — keep out of indexing. Remove/replace before any public launch.
+User-agent: *
+Disallow: /

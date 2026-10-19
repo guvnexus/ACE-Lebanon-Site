@@ -1,0 +1,133 @@
+{
+  "project": "ACE Lebanon \u00e2\u20ac\u201d review build media manifest",
+  "source": "ACE Executive Summary v1.8 (September 2026), sponsor-provided PDF",
+  "rightsNote": "All assets extracted from the sponsor deck. Rights and approval pending owner confirmation. Every rendering is labeled 'Conceptual rendering' on site.",
+  "assets": [
+    {
+      "file": "ace-logo-light.png",
+      "deckPage": 15,
+      "placement": "Footer (dark background)",
+      "caption": "ACE mark, monochrome light treatment derived from deck logo",
+      "approval": "deck"
+    },
+    {
+      "file": "ace-logo.png",
+      "deckPage": 15,
+      "placement": "Header, footer",
+      "caption": "ACE mark",
+      "approval": "deck"
+    },
+    {
+      "file": "hero-tps.jpg",
+      "deckPage": 1,
+      "placement": "Home hero",
+      "caption": "Conceptual rendering \u00e2\u20ac\u201d TPS anchor",
+      "approval": "deck"
+    },
+    {
+      "file": "sports-indoor.jpg",
+      "deckPage": 5,
+      "placement": "District component 01",
+      "caption": "Conceptual rendering \u00e2\u20ac\u201d indoor fields",
+      "approval": "deck"
+    },
+    {
+      "file": "institute.jpg",
+      "deckPage": 8,
+      "placement": "District component 02",
+      "caption": "Conceptual rendering \u00e2\u20ac\u201d institute",
+      "approval": "deck"
+    },
+    {
+      "file": "hotel-v2.jpg",
+      "deckPage": 14,
+      "placement": "District component 03",
+      "caption": "Conceptual rendering \u00e2\u20ac\u201d hotel",
+      "approval": "deck"
+    },
+    {
+      "file": "residential-v2.jpg",
+      "deckPage": 12,
+      "placement": "District component 04",
+      "caption": "Conceptual rendering \u00e2\u20ac\u201d multifamily",
+      "approval": "deck"
+    },
+    {
+      "file": "commercial.jpg",
+      "deckPage": 11,
+      "placement": "District component 05",
+      "caption": "Conceptual rendering \u00e2\u20ac\u201d retail street",
+      "approval": "deck"
+    },
+    {
+      "file": "aerial-fields.jpg",
+      "deckPage": 16,
+      "placement": "District component 06",
+      "caption": "Conceptual rendering \u00e2\u20ac\u201d fields",
+      "approval": "deck"
+    },
+    {
+      "file": "aerial-phasing.jpg",
+      "deckPage": 7,
+      "placement": "Vision section",
+      "caption": "Conceptual rendering \u00e2\u20ac\u201d district aerial",
+      "approval": "deck"
+    },
+    {
+      "file": "aerial-site.jpg",
+      "deckPage": 16,
+      "placement": "Unused spare (og:image)",
+      "caption": "Conceptual rendering \u00e2\u20ac\u201d site aerial",
+      "approval": "deck"
+    },
+    {
+      "file": "masterplan.png",
+      "deckPage": 6,
+      "placement": "Master Plan page + preview",
+      "caption": "Conceptual master plan \u00e2\u20ac\u201d not a survey",
+      "approval": "deck"
+    },
+    {
+      "file": "location-map.jpg",
+      "deckPage": 2,
+      "placement": "Location section",
+      "caption": "Regional context map",
+      "approval": "deck"
+    },
+    {
+      "file": "community-v2.jpg",
+      "deckPage": 4,
+      "placement": "Community section",
+      "caption": "Youth soccer training",
+      "approval": "deck"
+    },
+    {
+      "file": "team-pete.jpg",
+      "deckPage": 15,
+      "placement": "Team",
+      "caption": "Pete Searles portrait",
+      "approval": "deck"
+    },
+    {
+      "file": "team-beth.jpg",
+      "deckPage": 15,
+      "placement": "Team",
+      "caption": "Beth Underhill portrait",
+      "approval": "deck"
+    },
+    {
+      "file": "team-bradley.jpg",
+      "deckPage": 15,
+      "placement": "Team",
+      "caption": "Bradley Seidel portrait",
+      "approval": "deck"
+    }
+  ],
+  "intentionallyOmitted": [
+    "Partner/institution logos (page 3) \u00e2\u20ac\u201d logos are not evidence of executed partnerships",
+    "Competitor comparison table (page 10) \u00e2\u20ac\u201d internal market analysis",
+    "Cost estimates & unit economics table (pages 12, 14) \u00e2\u20ac\u201d internal scope estimates",
+    "Aggregate team credential figures \u00e2\u20ac\u201d pending verification",
+    "Visitation, jobs, and economic-impact projections \u00e2\u20ac\u201d under review, not public copy"
+  ]
+}
